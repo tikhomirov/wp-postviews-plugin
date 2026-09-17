@@ -2,7 +2,7 @@
   "name": "rwsite/wp-postviews-plugin",
   "description": "This WordPress plugin for creating a post view counter.",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "GPL-2.0-or-later",
   "type": "wordpress-plugin",
   "authors": [
     {
@@ -10,6 +10,5 @@
       "email": "alex@rwsite.ru"
     }
   ],
-  "require": {
-  }
+  "require": {}
 }
